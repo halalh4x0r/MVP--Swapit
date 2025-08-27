@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Used iPhone 12",
+      "price": 35000,
+      "condition": "Good",
+      "category": "Electronics",
+      "image": "https://via.placeholder.com/300x200?text=iPhone",
+      "description": "Lightly used, 128GB.",
+      "seller": "Mohamed",
+      "location": "Mombasa",
+      "source": "local"
+    }
+  ]
+}

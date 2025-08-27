@@ -2,87 +2,15 @@
   "items": [
     {
       "id": 1,
-      "title": "Wooden Coffee Table",
-      "description": "A sturdy oak coffee table in great condition.",
-      "category": "Furniture",
-      "image": "https://images.unsplash.com/photo-1616627987585-9c57d2d1c4e6"
+      "name": "Wireless Mouse",
+      "price": 1500,
+      "category": "Electronics"
     },
     {
       "id": 2,
-      "title": "Mountain Bike",
-      "description": "26-inch mountain bike, barely used.",
-      "category": "Sports",
-      "image": "https://images.unsplash.com/photo-1518655048521-f130df041f66"
-    },
-    {
-      "id": 3,
-      "title": "Acoustic Guitar",
-      "description": "Six-string acoustic guitar, perfect for beginners.",
-      "category": "Music",
-      "image": "https://images.unsplash.com/photo-1520962916584-94f1f5a0bb3c"
-    },
-    {
-      "id": 4,
-      "title": "Office Chair",
-      "description": "Ergonomic office chair with lumbar support.",
-      "category": "Furniture",
-      "image": "https://images.unsplash.com/photo-1585421514738-0c7d2cb0f7a1"
-    },
-    {
-      "id": 5,
-      "title": "Cookware Set",
-      "description": "Non-stick pans and pots, 7-piece set.",
-      "category": "Kitchen",
-      "image": "https://images.unsplash.com/photo-1604328698692-212f0a3d93b5"
-    },
-    {
-      "id": 6,
-      "title": "Books Bundle",
-      "description": "Assorted novels and self-help books (10 total).",
-      "category": "Books",
-      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f"
-    },
-    {
-      "id": 7,
-      "title": "Winter Jacket",
-      "description": "Men’s medium-sized padded jacket, excellent for cold weather.",
-      "category": "Clothing",
-      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
-    },
-    {
-      "id": 8,
-      "title": "Smartphone",
-      "description": "Used but functional Android smartphone with charger.",
-      "category": "Electronics",
-      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
-    },
-    {
-      "id": 9,
-      "title": "Dining Chairs (Set of 4)",
-      "description": "Minimalist wooden dining chairs, set of four.",
-      "category": "Furniture",
-      "image": "https://images.unsplash.com/photo-1582582429320-2c07f1f87c3a"
-    },
-    {
-      "id": 10,
-      "title": "Tennis Racket",
-      "description": "Lightweight racket, ideal for intermediate players.",
-      "category": "Sports",
-      "image": "https://images.unsplash.com/photo-1617957748538-b4aafc5b63b4"
-    },
-    {
-      "id": 11,
-      "title": "Laptop Backpack",
-      "description": "Water-resistant backpack with multiple compartments.",
-      "category": "Accessories",
-      "image": "https://images.unsplash.com/photo-1612817159949-4e8ce6217d30"
-    },
-    {
-      "id": 12,
-      "title": "Blender",
-      "description": "High-speed blender, perfect for smoothies.",
-      "category": "Kitchen",
-      "image": "https://images.unsplash.com/photo-1623207332885-0f7d3b4f26e2"
+      "name": "Water Bottle",
+      "price": 500,
+      "category": "Accessories"
     }
   ]
 }
